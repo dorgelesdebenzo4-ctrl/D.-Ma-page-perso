@@ -41,7 +41,7 @@ body {
         
 /* En-tête */
 header {
-    background: linear-gradient(135deg, #6a11cb 0%, #07ffa8 100%), url(images/5870464401322740680.jpg);
+    background: linear-gradient(135deg, #6a11cb 0%, #07ffa8 100%), url(5870464401322740680.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     background-position: center;
@@ -303,4 +303,5 @@ transition: all 0.3s ease;
     }
 
 }
+
 
