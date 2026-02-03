@@ -52,6 +52,7 @@ header {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     position: relative;
     background-size: cover;
+    width: 50%;
 }
 
 .profile-img .overlay{
@@ -303,5 +304,6 @@ transition: all 0.3s ease;
     }
 
 }
+
 
 
